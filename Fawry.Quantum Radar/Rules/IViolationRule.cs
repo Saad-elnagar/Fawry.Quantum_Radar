@@ -1,7 +1,4 @@
-﻿using Fawry.Quantum_Radar.Models;
-
-
-namespace Fawry.Quantum_Radar.Rules
+﻿namespace Fawry.Quantum_Radar.Rules
 {
 
     // each rule inspects an observation and returns a violation if one occurred or null otherwise.

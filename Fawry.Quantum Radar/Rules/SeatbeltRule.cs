@@ -1,6 +1,4 @@
-﻿
-
-namespace Fawry.Quantum_Radar.Rules
+﻿namespace Fawry.Quantum_Radar.Rules
 {
     public class SeatbeltRule : IViolationRule
     {

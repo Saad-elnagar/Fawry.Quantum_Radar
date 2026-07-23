@@ -1,8 +1,4 @@
-﻿
-
-
-
-namespace Fawry.Quantum_Radar
+﻿namespace Fawry.Quantum_Radar
 {
     internal class Program
     {
@@ -16,13 +12,7 @@ namespace Fawry.Quantum_Radar
 
             var radar = new QuantumRadar(rules);
              
-            var vehicle1 = new RadarObservation(
-                "ABC1234",
-                DateTime.Now,
-                VehicleType.Private,
-                94,
-                false
-                );
+            var vehicle1 = new RadarObservation("ABC1234",DateTime.Now, VehicleType.Private, 94,false);
 
             var vehicle2 = new RadarObservation("XYZ5678", DateTime.Now, VehicleType.Truck, 50, true);
 

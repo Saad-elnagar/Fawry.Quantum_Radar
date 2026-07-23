@@ -1,6 +1,4 @@
-﻿
-
-namespace Fawry.Quantum_Radar.Models
+﻿namespace Fawry.Quantum_Radar.Models
 {
     public record ViolationResult(
         string RuleName,

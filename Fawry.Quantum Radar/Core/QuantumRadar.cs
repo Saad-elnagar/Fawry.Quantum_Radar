@@ -1,5 +1,4 @@
-﻿using Fawry.Quantum_Radar.Models;
-using Fawry.Quantum_Radar.Rules;
+﻿
 
 
 namespace Fawry.Quantum_Radar.Core
