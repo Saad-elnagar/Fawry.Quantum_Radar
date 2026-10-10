@@ -1,5 +1,7 @@
 # Quantum Radar — Rule-Based Traffic Violation Engine
 
+[![Build](https://github.com/Saad-elnagar/Fawry.Quantum_Radar/actions/workflows/dotnet-build.yml/badge.svg?branch=main)](https://github.com/Saad-elnagar/Fawry.Quantum_Radar/actions/workflows/dotnet-build.yml)
+
 A C# console application that evaluates vehicle observations against a configurable collection of violation rules and produces fine records.
 
 ## Features
